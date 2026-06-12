@@ -1,2 +1,4 @@
 Name = "Martin"
-print (Name)
+Age = "56
+Sex = "Male"
+print (Name + Age + Sex)
